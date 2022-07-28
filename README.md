@@ -46,13 +46,8 @@
 </div>
 
 ###
-<div align="center">
-  <a href="https://github.com/lukedevelopy">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lukedevelopy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukedevelopy&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&custom_title=Minhas estatísticas do GitHub&username=lukedevelopy" height="152" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=lukedevelopy" height="152" alt="languages graph"  />
 </div>
