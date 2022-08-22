@@ -49,7 +49,7 @@
 ###
   
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&custom_title=Minhas estatísticas do GitHub&username=lukedevelopy" height="152" alt="stats graph"  />
+<img height="152em" src="https://github-readme-stats.vercel.app/api?username=lukedevelopy&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=lukedevelopy" height="152" alt="languages graph"  />
 </div>
 
