@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Eu sou Lucas Roberto de Francisco! 👋</h2>
+<h2 align="center">Olá! Eu sou Lucas Roberto de Francisco! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h2>
 
 ###
 
