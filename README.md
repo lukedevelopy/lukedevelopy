@@ -34,7 +34,5 @@
   
  
 
-![Snake animation](https://github.com/lukedevelopy/lukedevelopy/blob/output/github-contribution-grid-snake.svg)
-
 ###
 </div>
