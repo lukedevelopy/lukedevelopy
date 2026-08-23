@@ -44,8 +44,8 @@ O sistema possui operações de **CRUD**, persistência de dados com **Entity Fr
 ## 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lukedevelopy&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukedevelopy&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="./github-stats.svg" />
+  <img height="170" src="./top-langs.svg" />
 </p>
 
 ---
