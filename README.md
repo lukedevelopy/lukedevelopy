@@ -43,9 +43,10 @@ O sistema possui operações de **CRUD**, persistência de dados com **Entity Fr
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukedevelopy\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukedevelopy\&layout=compact\&theme=github_dark\&hide_border=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lukedevelopy&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukedevelopy&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
@@ -56,6 +57,7 @@ O sistema possui operações de **CRUD**, persistência de dados com **Entity Fr
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukedevelopy/lukedevelopy/output/github-snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/lukedevelopy/lukedevelopy/output/github-snake.svg">
 </picture>
+
 ---
 
 ## 📫 Contato
