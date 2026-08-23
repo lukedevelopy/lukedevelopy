@@ -1,0 +1,36 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate stats cards
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=lukedevelopy&show_icons=true&theme=github_dark&hide_border=true
+          path: github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate languages card
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=lukedevelopy&layout=compact&theme=github_dark&hide_border=true
+          path: top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated cards
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "Update GitHub stats"
+          file_pattern: "*.svg"
