@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Eu sou estudante de programação e amante da tecnologia!</h3>
+<h3 align="center">Desenvolvedor .NET Júnior, com foco em backend utilizando C# e .NET.</h3>
 
 ###
 
