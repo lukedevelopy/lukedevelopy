@@ -22,7 +22,7 @@ jobs:
           card: stats
           options: username=lukedevelopy&show_icons=true&theme=github_dark&hide_border=true
           path: github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Generate languages card
         uses: stats-organization/github-readme-stats-action@v1
@@ -30,7 +30,7 @@ jobs:
           card: top-langs
           options: username=lukedevelopy&layout=compact&theme=github_dark&hide_border=true
           path: top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Commit generated cards
         uses: stefanzweifel/git-auto-commit-action@v6
