@@ -1,39 +1,66 @@
-<h2 align="center">Olá! Eu sou Lucas Roberto de Francisco! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h2>
+# Olá, eu sou o Lucas Roberto de Francisco! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-###
+### 💻 Desenvolvedor .NET Júnior
 
-<h3 align="center">Desenvolvedor .NET Júnior, com foco em backend utilizando C# e .NET.</h3>
+Sou desenvolvedor com foco em **backend utilizando C# e .NET**, construindo minha experiência através de estudos e projetos práticos.
 
-###
+Gosto de entender como as coisas funcionam, resolver problemas e transformar o que aprendo em código. Atualmente estou aprofundando meus conhecimentos no ecossistema .NET e buscando minha primeira oportunidade profissional como desenvolvedor.
 
+---
 
-###
+## ⚙️ Tecnologias
 
-<div align="center">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <img align="center" alt=".NET CORE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt=".netcore logo"  />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" width="52" alt="sql logo"  />
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img align="center" alt="JavaScrit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  
-          
-          
-</div>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-###
+### 🌐 Também tenho contato com
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
 
-##
+---
 
- <div align="center"> 
-  <a href="https://www.linkedin.com/in/lucasrdfdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/lucas.francisco30/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:luke.developer@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  
- 
+## 🚀 Projeto em destaque
 
-###
-</div>
+### 📦 Sistema de Gestão de Produtos
+
+Aplicação web desenvolvida em **C# e ASP.NET Core MVC** como parte de um desafio técnico para uma vaga de Desenvolvedor .NET Júnior.
+
+O sistema possui operações de **CRUD**, persistência de dados com **Entity Framework Core e SQL Server**, além de busca, ordenação, validações e exportação de dados para CSV.
+
+**Tecnologias:**
+`C#` `.NET 10` `ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `Bootstrap`
+
+🔗 [Ver projeto no GitHub](https://github.com/lukedevelopy/desafio-dotnet10-mvc-jr)
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukedevelopy\&show_icons=true\&theme=github_dark\&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukedevelopy\&layout=compact\&theme=github_dark\&hide_border=true)
+
+---
+
+## 🐍 Minhas contribuições
+
+![Snake animation](https://raw.githubusercontent.com/lukedevelopy/lukedevelopy/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Roberto-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucasrdfdev/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-lukedevelopy-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/lukedevelopy)
+
+---
+
+> 💡 **Aprendendo um pouco mais a cada projeto e transformando conhecimento em código.**
