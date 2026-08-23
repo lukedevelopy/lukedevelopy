@@ -13,7 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate stats cards
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v1
         with:
           card: stats
