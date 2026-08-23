@@ -51,8 +51,7 @@ O sistema possui operações de **CRUD**, persistência de dados com **Entity Fr
 
 ## 🐍 Minhas contribuições
 
-![Snake animation](https://raw.githubusercontent.com/lukedevelopy/lukedevelopy/output/github-contribution-grid-snake-dark.svg)
-
+![Snake animation](https://raw.githubusercontent.com/lukedevelopy/lukedevelopy/output/github-contribution-grid-snake.svg)
 ---
 
 ## 📫 Contato
