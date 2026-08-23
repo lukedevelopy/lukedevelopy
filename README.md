@@ -43,10 +43,16 @@ O sistema possui operações de **CRUD**, persistência de dados com **Entity Fr
 
 ## 📊 GitHub
 
-<p align="center">
-  <img height="170" src="./github-stats.svg" />
-  <img height="170" src="./top-langs.svg" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img width="420" src="./github-stats.svg" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img width="320" src="./top-langs.svg" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
